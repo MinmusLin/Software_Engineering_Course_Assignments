@@ -15,6 +15,9 @@ A collection of my software engineering course assignments.
 
 ## 仓库组成
 
+* [Scenario-Based Requirements Analysis](Scenario_Based_Requirements_Analysis)
+基于场景的需求分析：使用在线证券账户购买股票
+
 * [Analysis and Comparison of Software Process Models](Analysis_and_Comparison_of_Software_Process_Models.pdf)
 软件过程模型的分析与比较
 
@@ -26,4 +29,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年10月9日
+2024年10月30日
