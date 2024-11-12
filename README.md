@@ -6,23 +6,28 @@ Software_Engineering_Course_Assignments
 
 ## 仓库简介
 
-A collection of my software engineering course assignments.
+A collection of my software engineering course assignments, and software engineering course project defense.
 
-2024年同济大学软件工程课程作业合集。
+2024年同济大学软件工程课程作业合集，以及软件工程课程设计答辩。
 
 > ***Relevant course***
 > * Software Engineering 2024 (2024年同济大学软件工程)
 
 ## 仓库组成
 
-* [Scenario-Based Requirements Analysis](Scenario_Based_Requirements_Analysis)
-基于场景的需求分析：使用在线证券账户购买股票
-
 * [Intelligent Curtain Wall: Requirements Analysis and Modeling](Intelligent_Curtain_Wall_Requirements_Analysis_and_Modeling)
 智慧幕墙：需求分析与建模
 
+* [Scenario-Based Requirements Analysis](Scenario_Based_Requirements_Analysis)
+基于场景的需求分析：使用在线证券账户购买股票
+
 * [Analysis and Comparison of Software Process Models](Analysis_and_Comparison_of_Software_Process_Models.pdf)
 软件过程模型的分析与比较
+
+## 相关仓库
+
+* [Intelligent Curtain Wall Backend Integration](https://github.com/MinmusLin/Intelligent_Curtain_Wall_Backend_Integration)
+智慧幕墙（后端应用程序集成）
 
 ## 免责声明
 
