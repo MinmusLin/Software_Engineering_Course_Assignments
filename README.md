@@ -19,19 +19,11 @@ A collection of my software engineering course assignments, and software enginee
 * [Design and Analysis of Elderly Care System for Empty-Nest Families](Design_and_Analysis_of_Elderly_Care_System_for_Empty_Nest_Families)
 空巢老人看护软件系统的需求分析与设计
 
-* [Intelligent Curtain Wall: Requirements Analysis and Modeling](Intelligent_Curtain_Wall_Requirements_Analysis_and_Modeling)
-智慧幕墙：需求分析与建模
-
 * [Scenario-Based Requirements Analysis](Scenario_Based_Requirements_Analysis)
 基于场景的需求分析：使用在线证券账户购买股票
 
 * [Analysis and Comparison of Software Process Models](Analysis_and_Comparison_of_Software_Process_Models.pdf)
 软件过程模型的分析与比较
-
-## 相关仓库
-
-* [Intelligent Curtain Wall Backend Integration](https://github.com/MinmusLin/Intelligent_Curtain_Wall_Backend_Integration)
-智慧幕墙（后端应用程序集成）
 
 ## 免责声明
 
@@ -41,4 +33,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年11月13日
+2024年11月30日
