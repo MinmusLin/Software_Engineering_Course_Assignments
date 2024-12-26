@@ -6,13 +6,12 @@ Software_Engineering_Course_Assignments
 
 ## 仓库简介
 
-A collection of my software engineering course assignments, and software engineering course project defense.
+A collection of my software engineering course assignments.
 
-2024年同济大学软件工程课程作业合集，以及软件工程课程设计答辩。
+2024年同济大学软件工程课程作业合集。
 
-> ***Relevant courses***
+> ***Relevant course***
 > * Software Engineering 2024 (2024年同济大学软件工程)
-> * Software Engineering Course Project 2024 (2024年同济大学软件工程课程设计)
 
 ## 仓库组成
 
@@ -33,4 +32,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年11月30日
+2024年12月26日
