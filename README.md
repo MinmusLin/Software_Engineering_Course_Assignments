@@ -24,6 +24,21 @@ A collection of my software engineering course assignments.
 * [Analysis and Comparison of Software Process Models](Analysis_and_Comparison_of_Software_Process_Models.pdf)
 软件过程模型的分析与比较
 
+* [Meeting Minutes](Meeting_Minutes.md)
+会议纪要
+
+* [System Architecture and Implementation of Dataset Management Platform Presentation](System_Architecture_and_Implementation_of_Dataset_Management_Platform_Presentation.pdf)
+智慧幕墙数据集管理平台系统架构与实现汇报
+
+* [System Architecture and Server Operations and Maintenance Presentation](System_Architecture_and_Server_Operations_and_Maintenance_Presentation.pdf)
+智慧幕墙系统架构与服务器运维汇报
+
+* [System Design Specification](System_Design_Specification.pdf)
+系统设计规约（SDS）文档
+
+* [System Requirements Specification](System_Requirements_Specification.pdf)
+系统需求规约（SRS）文档
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -32,4 +47,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2024年12月26日
+2025年6月16日
