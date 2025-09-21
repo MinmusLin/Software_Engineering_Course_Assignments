@@ -9,10 +9,10 @@
 
 A collection of my software engineering course assignments.
 
-2024年同济大学软件工程课程作业合集。
+2024 年同济大学软件工程课程作业合集。
 
 > ***Relevant course***
-> * Software Engineering 2024 (2024年同济大学软件工程)
+> * Software Engineering 2024 (2024 年同济大学软件工程)
 
 ## 仓库组成
 
